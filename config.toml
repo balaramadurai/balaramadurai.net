@@ -1,0 +1,131 @@
+baseurl = "http://balaramadurai.net/"
+title = "Dr. Bala Ramadurai | Professor & Consultant in Innovation, Design Thinking, Intrapreneurship & Technology Forecasting"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "balaramadurai"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-68204765-1"
+publishdir = "balaramadurai.github.io"
+
+# Define the number of posts per page
+paginate = 10
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Dr. Bala Ramadurai"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "green"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "bala@balaramadurai.net"
+
+    about_us = "<p>Professor & Consultant in Innovation, Design Thinking, Intrapreneurship and Technology Forecasting</p>"
+    copyright = "Copyright (c) Dr. Bala Ramadurai; all rights reserved."
+    date_format = "2006-01-02"
+    logo = "img/logo.png"
+    address = """<p><strong>Dr. Bala Ramadurai</strong>
+        <br>Kothrud
+        <br>Pune
+        <strong>India</strong>
+      </p>
+      """
+    latitude = "18.5204"
+    longitude = "73.8567"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+[[params.menu]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[params.menu]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[params.menu]]
+    name = "Clients"
+    url  = "/#Clients"
+    weight = 4
+    
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 5
+
+[[params.menu]]
+    name = "About"
+    url  = "/about/"
+    weight = 3
+
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Clients"
+    subtitle = "Workshops, Courses, Training sessions and Mentoring"
+
+[params.recent_posts]
+    enable = true
+    title = "From my blog"
+    subtitle = "I write occasionally about a few things that are dear to me - writing about life, teaching tools and techniques, and learning about technology. I plan to write more about health and writing in general as well. Stay tuned. Please do subscribe to my blog if you like what you read."
+
+[params.social]
+    enable = true
+    # All social links are defined in their own files. You can find example items
+    # at 'exampleSite/data/social'.
+    # For more informtion take a look at the README.
+    title = "Connect with Me"
+    subtitle = "I am on Social Media..."
