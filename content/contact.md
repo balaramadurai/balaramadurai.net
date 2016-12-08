@@ -5,7 +5,8 @@ id = "contact"
 
 # I am here to help you
 
-Please feel free to drop a line at mailto:bala@balaramadurai.net or use the form in this page to reach out to me.
+To discuss details and schedule a seminar, workshop, Webinar, or PowerPoint presentation, or for more information, please contact me at: 
+[bala@balaramadurai.net](mailto:bala@balaramadurai.net).
 
-Thanks and have a great day!
+Thanks and have a great day!  
 Dr. Bala Ramadurai
