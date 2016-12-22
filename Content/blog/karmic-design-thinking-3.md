@@ -94,7 +94,7 @@ loses the benefits or features.
 
 This is best illustrated using the equation from the TRIZ world
 
-\(Ideal Final Result = \frac{\sum Benefits/Features}{\sum Harm/Negatives/Bugs + \sum Costs}\)
+<img src="/img/IFR-eqn.gif" alt="Ideal Final Result Equation" class="img-responsive" />  
 
 Now, the product or service is ready to enter the next generation or if it is mature enough is ready to be absorbed by another product or service in
 totality. 
