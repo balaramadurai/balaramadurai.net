@@ -139,5 +139,5 @@ Which is where I felt the need to combine traditional design thinking approach w
 Since, this new thinking methodology is heavily inspired by Lord Buddha's four noble truths, I call this "new" "old" thinking approach as **Karmic
 Design Thinking**, you know, originating out of Karma, the Karma arising out of rebirths.
 
-Next up, concluding episode of this series, *Karmic Design Thinking - Part 3 - Defining Structure*.
+Next up, concluding episode of this series, *[Karmic Design Thinking - Part 3 - Defining Structure](/blog/2016/12/22/karmic-design-thinking-3/)*.
 

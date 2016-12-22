@@ -70,5 +70,5 @@ I needed a proverbial apple to fall on my head to assure me that all was well wi
 <strong>And the apple did fall!</strong>
 </div>
 
-Watch for the next exciting episode of **Karmic Design Thinking - Part 2 - What is it?** to know what I have in mind.
+The next exciting episode of Karmic Design Thinking is covered - **[Karmic Design Thinking - Part 2 - What is it?](/blog/2016/12/15/karmic-design-thinking-2/)** to know what I have in mind.
 
